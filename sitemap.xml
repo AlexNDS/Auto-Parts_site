@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+	<url>
+		<loc>http://www.yourwebsite.com/</loc>
+		<lastmod>2023-02-18</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+		<xhtml:link rel="alternate" href="" hreflang="ru"/>
+		<xhtml:link rel="alternate" href="" hreflang="en-us"/>
+		<xhtml:link rel="alternate" href="" hreflang="en-us"/>
+		<xhtml:link rel="alternate" href="" hreflang="en-us"/>
+	</url>
+	<url>
+		<loc>http://www.yourwebsite.com/about.html</loc>
+		<lastmod>2023-02-09</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://www.yourwebsite.com/document.html</loc>
+		<lastmod>2023-02-17</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://www.yourwebsite.com/contact.php</loc>
+		<lastmod>2023-02-17</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://www.yourwebsite.com/yes.html</loc>
+		<lastmod>2023-02-09</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://www.yourwebsite.com/no.html</loc>
+		<lastmod>2023-02-09</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://www.yourwebsite.com/Success.html</loc>
+		<lastmod>2023-02-09</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://www.yourwebsite.com/error.html</loc>
+		<lastmod>2023-02-09</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+</urlset>
